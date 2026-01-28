@@ -1,0 +1,3 @@
+workstation_data/
+__pycache__/
+.streamlit/secrets.toml
